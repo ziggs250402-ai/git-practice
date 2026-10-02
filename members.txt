@@ -1,2 +1,2 @@
-Project: Git Practice by AnhTu
-Team: Group 8
+Project: Git Practice by AnhTu and Cuminhtuanlinh
+Team: Group 2
